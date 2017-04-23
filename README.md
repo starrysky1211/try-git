@@ -18,3 +18,4 @@ and push to the corresponding branch in your folked repo.
 ## Rebase Branch
 Rebase the branch ```rebase``` to ```master```. Be sure to ensure that the commits in
 ```master``` follows the commits in ```rebase```.
+
